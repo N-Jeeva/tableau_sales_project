@@ -1,19 +1,19 @@
 This is the step by step process of this tableau sales and customer insight visualization project.
 
-** STEP 1: Requirement analysis **
+**STEP 1: Requirement analysis**
           ⦁	Collect requirements
           ⦁	Choose right charts
           ⦁	Draw mockups
           ⦁	Choose colours
 
-** STEP 2: Build Data Source ( Missing, null and other problems in the data is checked with the help of Tableau Prep) **
+**STEP 2: Build Data Source ( Missing, null and other problems in the data is checked with the help of Tableau Prep)**
           ⦁	Connect data
           ⦁	Create data model
           ⦁	Rename fields and tables
           ⦁	Check data types
           ⦁	Understand data
 
-** STEP 3: Build Charts **
+**STEP 3: Build Charts**
           ⦁	Create calculated fields & test
           ⦁	Build chart
           ⦁	Format
@@ -22,7 +22,7 @@ This is the step by step process of this tableau sales and customer insight visu
            	- Colouring
            	- Tooltips
 
-** STEP 4: Build Dashboard **
+**STEP 4: Build Dashboard**
           ⦁	Draw mockup for container
           ⦁	Create container structure
           ⦁	Put all charts together
