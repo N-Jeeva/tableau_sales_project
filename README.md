@@ -1,4 +1,4 @@
-# tableau_sales_project
+# TABLEAU SALES & CUSTOMER INSIGHT VISUALIZATION PROJECT
 
     This project contains two interactive Tableau dashboards designed to help stakeholders—including sales managers, analysts, executives, and marketing teams—gain deeper insights into sales performance and customer behavior. The dashboards visualize year-over-year trends, key performance indicators (KPIs), and detailed comparisons to support data-driven decision-making.
 
